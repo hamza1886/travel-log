@@ -71,7 +71,7 @@
       <updated>1595924780452</updated>
       <workItem from="1595924782105" duration="852000" />
       <workItem from="1595925645453" duration="7027000" />
-      <workItem from="1595932742488" duration="8032000" />
+      <workItem from="1595932742488" duration="8399000" />
     </task>
     <servers />
   </component>
@@ -87,10 +87,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595932835383" />
-    <state x="1214" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595932569885">
+    <state x="1214" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595944802544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1214" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595932569885" />
+    <state x="1214" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595944802544" />
     <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1595933175448">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
