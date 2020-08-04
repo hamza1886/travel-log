@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -33,14 +36,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.13.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.12.53" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WebstormProjects\travel-log\client" />
       <recent name="E:\WebstormProjects\travel-log\server" />
     </key>
   </component>
@@ -71,7 +78,8 @@
       <updated>1595924780452</updated>
       <workItem from="1595924782105" duration="852000" />
       <workItem from="1595925645453" duration="7027000" />
-      <workItem from="1595932742488" duration="8399000" />
+      <workItem from="1595932742488" duration="15064000" />
+      <workItem from="1596547873090" duration="26914000" />
     </task>
     <servers />
   </component>
@@ -79,6 +87,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1198" y="215" key="#CSS" timestamp="1596556255718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1198" y="215" key="#CSS/0.0.1920.1040@0.0.1920.1040" timestamp="1596556255718" />
+    <state x="450" y="28" width="1097" height="986" key="#HTML" timestamp="1595976100725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="450" y="28" width="1097" height="986" key="#HTML/0.0.1920.1040@0.0.1920.1040" timestamp="1595976100725" />
     <state x="1178" y="228" key="#JavaScript" timestamp="1595929494088">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -87,30 +103,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595932835383" />
-    <state x="1214" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595944802544">
+    <state x="1214" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595977253572">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1214" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595944802544" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1595933175448">
+    <state x="1214" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595977253572" />
+    <state x="1170" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595975014551">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595933175448" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1595933175448">
+    <state x="1170" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595975014551" />
+    <state width="1899" height="279" key="GridCell.Tab.0.bottom" timestamp="1596575846754">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595933175448" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1595933175447">
+    <state width="1899" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596575846754" />
+    <state width="1899" height="279" key="GridCell.Tab.0.center" timestamp="1596575846754">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595933175447" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1595933175448">
+    <state width="1899" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596575846754" />
+    <state width="1899" height="279" key="GridCell.Tab.0.left" timestamp="1596575846754">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595933175448" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1595933112415">
+    <state width="1899" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596575846754" />
+    <state width="1899" height="279" key="GridCell.Tab.0.right" timestamp="1596575846754">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595933112415" />
+    <state width="1899" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596575846754" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1595976262864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595976262864" />
+    <state x="666" y="253" width="587" height="534" key="find.popup" timestamp="1596579138643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="253" width="587" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596579138643" />
     <state x="1081" y="250" width="700" height="530" key="recent.locations.popup" timestamp="1595939566625">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -119,9 +143,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1096" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595930202280" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1595927604919">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1596561409367">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595927604919" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596561409367" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="travel-log" type="b2602c69:ProjectViewProjectNode" />
+        <item name="travel-log" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
   </component>
 </project>

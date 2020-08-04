@@ -1,4 +1,4 @@
-# Full Stack Travel Log
+# Travel Log
 
 A full stack application to store/list places you have traveled.
 
@@ -16,10 +16,10 @@ A full stack application to store/list places you have traveled.
   * Create a new log entry
 * [x] GET / logs
   * List all log entries
-* [ ] Setup Client
-* [ ] Create Form to add a new entry
-* [ ] Setup Map SDK on client
-* [ ] List all log entries on map
+* [x] Setup Client
+* [x] Create Form to add a new entry
+* [x] Setup Map SDK on client
+* [x] List all log entries on map
 * [ ] DEPLOY!
 
 # License

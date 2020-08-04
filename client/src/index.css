@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.popup {
+  width: 40vw;
+  margin: .5rem;
+  z-index: 999;
+}
+
+.text-red {
+  color: red;
+}
+
+fieldset {
+  margin: 0;
+  padding: 0 0 .5rem 0;
+  border: 0;
+}
+
+.entry-form label,
+.entry-form button {
+  width: 100%;
+  display: block;
+}
+
+.entry-form button {
+  margin-top: 1rem;
+  padding: .25rem;
+}
+
+.entry-form input,
+.entry-form textarea {
+  width: calc(100% - .75rem);
+  display: block;
+  padding: .25rem;
+  border: 1px solid #ccc;
+}
+
+.entry-form input:focus,
+.entry-form textarea:focus {
+  outline: 1px solid #aaa;
+}
+
+.entry-form input[type=date] {
+  font-family: inherit;
+}
+
+.entry-image {
+  width: 100%;
+  height: auto;
+}
