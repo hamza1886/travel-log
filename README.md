@@ -1,6 +1,6 @@
 # Travel Log
 
-A full stack application to store/list places you have traveled.
+A full stack application to store/list places you have traveled (based on [Node.js](https://nodejs.org/en/), [React](https://reactjs.org/), [MongoDB](https://www.mongodb.com/) and [Mapbox](https://www.mapbox.com/)).
 
 ### TODO
 
@@ -22,7 +22,24 @@ A full stack application to store/list places you have traveled.
 * [x] List all log entries on map
 * [x] DEPLOY!
 
-## Deployment
+## How to run code
+
+### Installation
+
+```shell script
+git clone https://github.com/hamza1886/travel-log.git
+cd ./server && npm install
+cd ./client && npm install 
+```
+
+### Development
+
+```shell script
+cd ./server && npm run dev
+cd ./client && npm run start
+```
+
+### Deployment
 
 To run server (back-end)
 
@@ -32,7 +49,7 @@ cp .env.example .env
 npm run start
 ```
 
-To run client (front-end).<br/> 
+To run client (front-end) 
 
 ```shell script
 cd ./client
@@ -43,6 +60,14 @@ serve -s -l 3000 build
 
 Here, port `3000` corresponds with `CORS_ORIGIN=http://localhost:3000` in file `./server/.env`.<br/>
 In file `./client/.env`, to obtain `REACT_APP_MAPBOX_TOKEN` visit [https://docs.mapbox.com/mapbox-gl-js/api/](https://docs.mapbox.com/mapbox-gl-js/api/)
+
+## Changes
+
+See [CHANGELOG](https://github.com/hamza1886/travel-log/blob/master/CHANGELOG.md)
+
+## Contribute
+
+Please do contribute! Issues and pull requests are welcome.
 
 # License
 
