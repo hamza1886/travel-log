@@ -20,7 +20,29 @@ A full stack application to store/list places you have traveled.
 * [x] Create Form to add a new entry
 * [x] Setup Map SDK on client
 * [x] List all log entries on map
-* [ ] DEPLOY!
+* [x] DEPLOY!
+
+## Deployment
+
+To run server (back-end)
+
+```shell script
+cd ./server
+cp .env.example .env
+npm run start
+```
+
+To run client (front-end).<br/> 
+
+```shell script
+cd ./client
+cp .env.example .env
+npm run build
+serve -s -l 3000 build
+```
+
+Here, port `3000` corresponds with `CORS_ORIGIN=http://localhost:3000` in file `./server/.env`.<br/>
+In file `./client/.env`, to obtain `REACT_APP_MAPBOX_TOKEN` visit [https://docs.mapbox.com/mapbox-gl-js/api/](https://docs.mapbox.com/mapbox-gl-js/api/)
 
 # License
 
